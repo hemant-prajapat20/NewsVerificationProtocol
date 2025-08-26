@@ -53,16 +53,10 @@ Contract ID: STQSXDSPNW0TXSNQRT512WQBEZZFXRNCHG0079EP.NewsVerificationProtocol
 ![alt text](image.png)
 
 ### Mainnet Deployment
-- **Contract Address**: [To be filled after deployment]
 - **Network**: Stacks Mainnet
-- **Deployment Date**: [To be filled]
-- **Deployer Address**: [To be filled]
 
 ### Testnet Deployment
-- **Contract Address**: [To be filled after testnet deployment]
 - **Network**: Stacks Testnet
-- **Deployment Date**: [To be filled]
-- **Deployer Address**: [To be filled]
 
 ### Contract Functions
 
