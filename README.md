@@ -49,6 +49,8 @@ Our vision is to create a trustless, decentralized infrastructure for news verif
 - **Integration Ecosystem**: Build plugins for popular browsers and social media platforms
 
 ## Contract Address Details
+Contract ID: STQSXDSPNW0TXSNQRT512WQBEZZFXRNCHG0079EP.NewsVerificationProtocol
+![alt text](image.png)
 
 ### Mainnet Deployment
 - **Contract Address**: [To be filled after deployment]
